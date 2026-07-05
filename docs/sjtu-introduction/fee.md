@@ -27,10 +27,11 @@ order: 5
 ## 收入
 - 生活补贴：39.5元/月（医学院为41.5元/月）
 - 勤工助学：见[学生事务中心解答](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=41)
-- 助学金：见[学生事务中心解答](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=36)
-- 奖学金：见各学院通知
+- [助学金](/growth/financial-aid)：见[学生事务中心解答](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=36)
+- [奖学金](/growth/financial-aid)：见各学院通知
 - 助研、助教：见各学院通知
 
 ::: tip
-财务处仅在学生计税收入（如酬金）在同一自然年达到60000元后才会上报个税。
+- 每月的生活补贴、勤工助学等收入，一般在每月3日打入中行卡中。
+- 财务处仅在学生计税收入（如酬金）在同一自然年达到60000元后才会上报个税。
 :::
