@@ -11,15 +11,15 @@ order: 2
 5. [校园活动平台](https://activity.sjtu.edu.cn/dekt)：获取第二课堂活动等校园活动相关资讯。
 
 ## 学在交大
-1. [Canvas教学平台](https://oc.sjtu.edu.cn/)：除浦江国际学院外，绝大多数交大人最常用的学习平台，从交作业到听回放，全方位陪伴你学在交大。
-2. [教学管理信息服务平台](https://i.sjtu.edu.cn/)：学在交大最刺激的部分都在这里了：抢课用它，查成绩还是用它。
-3. [上海交通大学图书馆](https://www.lib.sjtu.edu.cn/f/main/index.shtml)：拥有丰富的线上数据库，还能提前进行图书馆空间预约。作为一个交大人，图书馆（网站）是我每天必上的网站。
-4. [SJTU选课社区](https://course.sjtu.plus/)：从交大金课到交大“金”课，选课社区见证了无数好课的诞生。
-5. [传承·交大](https://share.dyweb.sjtu.cn/)：为学业一筹莫展的时候，请常来这儿看看，或许能发现学长学姐偶然掉落的圣遗物？当然，也欢迎你分享出自己的知识，维持传承积分的收支平衡！
+1. [Canvas教学平台](https://oc.sjtu.edu.cn/)：大多数交大人最常用的学习平台，从交作业到听回放，全方位陪伴你学在交大。
+2. [教学管理信息服务平台](https://i.sjtu.edu.cn/)：进行选课、成绩查询、课表查询等操作。
+3. [上海交通大学图书馆](https://www.lib.sjtu.edu.cn/f/main/index.shtml)：拥有丰富的线上数据库，还能提前进行图书馆空间预约。
+4. [SJTU选课社区](https://course.sjtu.plus/)：可以查看课程的过往评价。<sup>[非官方内容，请谨慎参考]</sup>
+5. [传承·交大](https://share.dyweb.sjtu.cn/)：为学业一筹莫展的时候，请常来这儿看看，或许能发现学长学姐偶然掉落的课件、笔记等分享？当然，也欢迎你分享出自己的知识，维持传承积分的收支平衡！
 6. [上海交通大学全媒体资源中心](https://vlc.sjtu.edu.cn/)：一站式发现平台，集成了多种类型的图片、文本、音频和视频等学习资源，旨在提高您对所需学习资源的检索和利用效率。
-7. [Course+](https://geek.sjtu.edu.cn/course-plus/)：SJTU 学期开课表索引与排课。
+7. [Course+](https://geek.sjtu.edu.cn/course-plus/)：SJTU学期开课表索引与排课。
 8. [上海交通大学大学生创新实践服务平台](https://prp.jwc.sjtu.edu.cn/)：无数交大人在此跨出科研第一步。
-9. [好大学在线](https://www.cnmooc.org/)：部分课程会使用的 MOOC 平台，请以任课老师通知为准。
+9. [好大学在线](https://www.cnmooc.org/)：部分课程会使用的MOOC平台，请以任课老师通知为准。
 
 ### 课程学习
 1. [物理实验选课与管理系统](http://www.phycai.sjtu.edu.cn/)
@@ -54,16 +54,17 @@ order: 2
 1. [交大邮箱](https://mail.sjtu.edu.cn/)
 2. [交大云盘](https://pan.sjtu.edu.cn/)：提供独属交大人的网盘服务。
 3. [水源文档](https://notes.sjtu.edu.cn/)：Markdown协作笔记平台。
-4. [SJTU 在线 LaTex 文档编辑器](https://latex.sjtu.edu.cn/)
-5. [DeepSeek本地版](https://chat.sjtu.edu.cn/)
-6. [SJTU Git Lab](https://git.sjtu.edu.cn/)
-7. [上海交通大学正版软件授权中心](https://software.sjtu.edu.cn/) ：获取授权软件。
-8. [智能问卷服务平台](https://wj.sjtu.edu.cn/)
-9. [交大VPN](https://net.sjtu.edu.cn/xxfw/VPN.htm)：在校外时，可借助交大VPN访问一些原本只有校内才能访问的网站。
-10. [交大电子地图](https://map.sjtu.edu.cn/)
-11. [视觉形象中心](https://vi.sjtu.edu.cn/index.php/articles/bulletin/13)：下载PPT模版、常用校标等。
-12. [校历查询](https://jwc.sjtu.edu.cn/jxxl/lnxl.htm)
+4. [SJTU在线LaTex文档编辑器](https://latex.sjtu.edu.cn/)：LaTex在线编辑平台，支持团队协作。
+5. [DeepSeek 本地版](https://chat.sjtu.edu.cn/)：交大本地部署 DeepSeek，支持在线对话和API调用
+6. [SJTU GitLab](https://git.sjtu.edu.cn/)
+7. [正版软件授权中心](https://software.sjtu.edu.cn/) ：获取授权软件。
+8. [交大问卷](https://wj.sjtu.edu.cn/)：校内问卷平台，可创建问卷并记录填写人 jAccount，查看填写过的问卷。
+9. [交大云视频会议](https://meeting.sjtu.edu.cn/)：最多支持2000人的腾讯会议教育版，需提前30分种预约。
+10. [交大VPN](https://net.sjtu.edu.cn/xxfw/VPN.htm)：在校外时，可借助交大VPN访问一些原本只有校内才能访问的网站。
+11. [交大电子地图](https://map.sjtu.edu.cn/)：可查到交大各个校区的地点和二维、三维地图。
+12. [视觉形象中心](https://vi.sjtu.edu.cn/index.php/articles/bulletin/13)：下载PPT模版、常用校标等。
+13. [校历查询](https://jwc.sjtu.edu.cn/jxxl/lnxl.htm)
 
 ## 检索建议
 
-除学校层面的入口外，各学院官网通常会发布本学院的教务、奖助、科研、就业等通知。找不到具体网址时，可以直接搜索“上海交通大学 + 学院名/部门名/服务名”，例如“上海交通大学教务处”“上海交通大学电子信息与电气工程学院”“上海交通大学网络信息中心”。遇到选课、转专业、考试、培养计划等有明确管理部门的问题，应优先查看教务处、教学信息服务网、学院官网和官方公众号的最新通知。
+除学校层面的入口外，各学院官网通常会发布本学院的教务、奖助、科研、就业等通知。找不到具体网址时，可以在搜索引擎或微信直接搜索“上海交通大学 + 学院名/部门名/服务名”，例如“上海交通大学教务处”“上海交通大学电子信息与电气工程学院”“上海交通大学网络信息中心”。遇到选课、转专业、考试、培养计划等有明确管理部门的问题，应优先查看教务处、教学信息服务网、学院官网和官方公众号的最新通知。
