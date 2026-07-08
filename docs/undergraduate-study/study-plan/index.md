@@ -1,9 +1,8 @@
 ---
 title: 培养计划
 order: 2
+author: TorchMar
 ---
-
-作者：TorchMar
 
 ## 概述：什么是培养计划？
 
