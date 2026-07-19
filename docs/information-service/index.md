@@ -10,4 +10,4 @@ order: 30
 
 “交我办”App移动端可在各大应用市场下载后使用，电脑端可在[my.sjtu.edu.cn](https://my.sjtu.edu.cn)访问。
 
-其他信息服务可参考[常用网站介绍](sjtu-introduction/website#常用网站)和[网络信息中心的信息服务列表](https://net.sjtu.edu.cn/xxfw/jwbApp.htm)。
+其他信息服务可参考[常用网站介绍](/sjtu-introduction/website#常用网站)和[网络信息中心的信息服务列表](https://net.sjtu.edu.cn/xxfw/jwbApp.htm)。

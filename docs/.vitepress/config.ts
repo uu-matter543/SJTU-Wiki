@@ -28,7 +28,6 @@ export default withThemeContext(
     org: 'SJTU-Geek',
     include: ['**/*.md'],
     enableFontSwitcher: false,
-    ignoreDeadLinks: true,
     suggestionBoxImageUrl: '/feekback-image@2x.png',
     suggestionBoxLinkUrl: 'https://ssc.sjtu.edu.cn/f/f787ebb3',
     topBannerHtml: "⚠️ SJTU Wiki 当前正处于试运行阶段，首轮测试运行预计持续到 2026 年 8 月 31 日，内容可能不准确或存在错误，请仔细甄别。",
