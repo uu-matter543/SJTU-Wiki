@@ -3,8 +3,11 @@ title: 游戏交流群
 order: 5
 ---
 
+此处收录了交大的游戏群，非官方组织请谨慎加入。如需修改请参考[此文章](/contributing)。
+
 建议善用网页搜索功能，不过这里也给出了目录索引。
 不做特殊说明，以下均为QQ群。
+
 <div class="alpha-index">
   <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | 
   <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | 
@@ -16,9 +19,8 @@ order: 5
 </div>
 
 ## <span id="A">A</span>
-- APEX 902117696 829918317
+- APEX 902117696/829918317
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
-
 
 ## <span id="B">B</span>
 - 崩坏:星穹铁道 102872711
@@ -58,6 +60,7 @@ order: 5
 - 皇室战争 957525327
 - 荒野乱斗 981674484
 - 环世界 760966789
+- 火影忍者 1072247569
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="I">I</span>
@@ -109,12 +112,12 @@ order: 5
 - 三国杀 联系2660879822获取微信群二维码
 - 三角洲 838575199
 - 杀戮尖塔 544462268
-- 守望先锋 (OW) 545965167
+- 守望先锋(OW) 545965167
 - steam 948885353
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="T">T</span>
-- Terraria 281420826
+- 泰拉瑞亚(Terraria) 281420826
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="U">U</span>
@@ -126,7 +129,6 @@ order: 5
 ## <span id="W">W</span>
 - 王者荣耀 602353863
 - 文明6 778240871
-- world of warships (WOW) 582477338
 - 无畏契约(VALORANT) 590443714
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
@@ -136,9 +138,10 @@ order: 5
 
 ## <span id="Y">Y</span>
 - 英雄联盟(LOL) 1041012279
-- 原神 915443332 923312410
+- 原神 915443332/923312410
 - 异环 589614869
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="Z">Z</span>
+- 战舰世界(WOW) 582477338
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
