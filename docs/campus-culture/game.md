@@ -19,10 +19,12 @@ order: 5
 </div>
 
 ## <span id="A">A</span>
+- 奥日(Ori) 808035042
 - APEX 902117696/829918317
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="B">B</span>
+- 百合游戏 834823742
 - 崩坏:星穹铁道 102872711
 - 部落冲突 132785089
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
@@ -30,6 +32,7 @@ order: 5
 ## <span id="C">C</span>
 - 彩虹六号围攻 719765415
 - 尘白禁区 961382518
+- 重返未来：1999(Reverse: 1999) 646709462
 - CSGO 523797830
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
@@ -69,11 +72,13 @@ order: 5
 ## <span id="J">J</span>
 - 剑网3 196107584
 - 激战2 732488617
+- 九日(Ninesols) 808035042
 - 绝区零 955707546
 - 决战平安京 949808697
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="K">K</span>
+- 空洞骑士(Hollow Knight) & 空洞骑士：丝之歌(Hollow Knight: Silksong) 808035042
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="L">L</span>
@@ -118,6 +123,7 @@ order: 5
 
 ## <span id="T">T</span>
 - 泰拉瑞亚(Terraria) 281420826
+- 土豆兄弟(Brotato) 1025271474
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="U">U</span>
@@ -128,6 +134,7 @@ order: 5
 
 ## <span id="W">W</span>
 - 王者荣耀 602353863
+- 蔚蓝(Celeste) 808035042
 - 文明6 778240871
 - 无畏契约(VALORANT) 590443714
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
@@ -139,7 +146,7 @@ order: 5
 ## <span id="Y">Y</span>
 - 英雄联盟(LOL) 1041012279
 - 原神 915443332/923312410
-- 以撒的结合 1025271474
+- 以撒的结合(The Binding of Isaac) 1025271474
 - 异环 589614869
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
